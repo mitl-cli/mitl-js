@@ -1,6 +1,6 @@
 {
-  "name": "@mitl-cli/mitl",
-  "version": "0.0.2",
+  "name": "@mitl-cli/mitl-js",
+  "version": "0.0.1",
   "description": "Mitl — precise, ephemeral tooling",
   "bin": {
     "mitl": "bin/mitl.js"
