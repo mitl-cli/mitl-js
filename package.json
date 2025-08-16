@@ -5,9 +5,8 @@
   "bin": {
     "mitl": "bin/mitl.js"
   },
-  "scripts": {
-    "test": "node bin/mitl.js --version"
+  "publishConfig": {
+    "access": "public"
   },
-  "author": "",
   "license": "MIT"
 }
