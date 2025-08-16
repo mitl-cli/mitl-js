@@ -1,4 +1,4 @@
-# @mitl-cli/mitl
+# @mitl-cli/mitl-js
 
 Mitl — precise, ephemeral tooling  
 **Pronunciation:** MEET-tl — Nahuatl _mitl_ = "arrow".  
@@ -19,4 +19,4 @@ Edit
 
 ## Publishing
 
-This repo contains the package `@mitl-cli/mitl`. CI will publish on release tags.
+This repo contains the package `@mitl-cli/mitl-js`. CI will publish on release tags.
